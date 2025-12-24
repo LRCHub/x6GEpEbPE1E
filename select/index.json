@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Perfect Night (Holiday Remix)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-24T16:34:52.029465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Perfect Night (Holiday Remix)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_Perfect_Night_(Holiday_Remix)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perfect Night (Holiday Remix)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/02_Perfect_Night_(Holiday_Remix)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perfect Night (Holiday Remix)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Perfect_Night_(Holiday_Remix)_LE_SSERAFIM.txt"
+    }
+  ]
+}
