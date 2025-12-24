@@ -1,0 +1,54 @@
+# LE SSERAFIM – Perfect Night (Holiday Remix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.71] Me and my girlies, we gon' party 'til it's early
+[00:18.19] Got me feeling otherworldly tonight
+[00:22.83] Caught in some traffic, but the radio is blasting
+[00:25.72] Drop a red light and we'll sing it goodbye
+[00:46.72] 
+[00:29.87] Ooh
+[00:33.02] By the morning, feel like magic
+[00:48.52] 
+[00:36.73] I got all I need, you know nothing else can beat
+[00:40.24] The way that I feel when I'm dancing with my girls
+[00:44.03] Perfect energy, yeah we flawless, yeah we free
+[00:47.29] There's no better feeling in the whole wide world
+[01:11.79] 
+[00:50.69] Tonight, I don't care what's wrong or right
+[00:56.59] Don't start blowing up my line
+[00:59.56] I'd care at 11:59
+[01:03.46] But nothing counts after midnight
+[01:19.96] 
+[01:06.43] Come and take a ride with me
+[01:08.54] I got a credit card and some good company
+[01:12.05] Some come through, make the fit real good
+[01:14.72] Why you still stuck on loading? Waiting on you, babe
+[01:40.72] 
+[01:20.07] Ooh
+[01:23.18] Night to morning, live slow motion
+[01:40.18] 
+[01:27.10] I got all I need, you know nothing else can beat
+[01:30.54] The way that I feel when I'm dancing with my girls
+[01:34.20] Perfect energy, yeah we flawless, yeah we free
+[01:37.47] There's no better feeling in the whole wide world
+[02:01.97] 
+[01:40.76] Tonight, I don't care what's wrong or right
+[01:46.67] Don't start blowing up my line
+[01:49.77] I'd care at 11:59
+[01:53.43] But nothing counts after midnight
+[02:09.93] 
+[02:02.80] Ooh
+[02:06.03] By the morning, feel like magic
+[02:21.53] 
+[02:09.80] I got all I need, you know nothing else can beat
+[02:13.32] The way that I feel when I'm dancing with my girls
+[02:17.14] Perfect energy, yeah we flawless, yeah we free
+[02:20.45] There's no better feeling in the whole wide world
+[02:44.95] 
+[02:23.94] Tonight, I don't care what's wrong or right
+[02:29.61] Don't start blowing up my line
+[02:32.66] I'd care at 11:59
+[02:36.78] Don't start blowing up my line
+```
